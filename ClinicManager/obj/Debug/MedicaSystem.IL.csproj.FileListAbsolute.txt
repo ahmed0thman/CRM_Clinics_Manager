@@ -1,0 +1,456 @@
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\ClinicManager.exe.config
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\ClinicManager.exe
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\ClinicManager.pdb
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\Guna.UI.dll
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.Form1.resources
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.Properties.Resources.resources
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Clinic.resources
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Control.resources
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Doctor.resources
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_User.resources
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.GenerateResource.cache
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.CoreCompileInputs.cache
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.CopyComplete
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.exe
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.pdb
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientCardDoctor.resources
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DiagnosisCard.resources
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Patient.resources
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DataCenter.resources
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientCardSecretary.resources
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientsArchieve.resources
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_ReservationSchedule.resources
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DashBoard.resources
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_QueueCard.resources
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\obj\Debug\MedicaSystem.IL.csprojAssemblyReference.cache
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientSec.resources
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\BouncyCastle.Crypto.dll
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\Google.Protobuf.dll
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\K4os.Compression.LZ4.dll
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\K4os.Hash.xxHash.dll
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\MySql.Data.dll
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\Renci.SshNet.dll
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\System.Buffers.dll
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\System.Memory.dll
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\System.Numerics.Vectors.dll
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\Ubiety.Dns.Core.dll
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\Zstandard.Net.dll
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\Google.Protobuf.xml
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\K4os.Compression.LZ4.xml
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\K4os.Hash.xxHash.xml
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\MySql.Data.xml
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\Renci.SshNet.xml
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\System.Buffers.xml
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\System.Memory.xml
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\System.Numerics.Vectors.xml
+E:\my_pc\ClinicManager\ClinicManager\ClinicManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\obj\Debug\MedicaSystem.IL.csprojAssemblyReference.cache
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\obj\Debug\ClinicManager.Form1.resources
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\obj\Debug\ClinicManager.Properties.Resources.resources
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Clinic.resources
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Control.resources
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DashBoard.resources
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DataCenter.resources
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DiagnosisCard.resources
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Doctor.resources
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Patient.resources
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientCardDoctor.resources
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientCardSecretary.resources
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientsArchieve.resources
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientSec.resources
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_QueueCard.resources
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_ReservationSchedule.resources
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_User.resources
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.GenerateResource.cache
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.CoreCompileInputs.cache
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\obj\Debug\ClinicManager.exe
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\obj\Debug\ClinicManager.pdb
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\ClinicManager.exe.config
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\ClinicManager.exe
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\ClinicManager.pdb
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\BouncyCastle.Crypto.dll
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\Google.Protobuf.dll
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\Guna.UI.dll
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\K4os.Compression.LZ4.dll
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\K4os.Hash.xxHash.dll
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\MySql.Data.dll
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\Renci.SshNet.dll
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\System.Buffers.dll
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\System.Memory.dll
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\System.Numerics.Vectors.dll
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\Ubiety.Dns.Core.dll
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\Zstandard.Net.dll
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\Google.Protobuf.xml
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\K4os.Compression.LZ4.xml
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\K4os.Hash.xxHash.xml
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\MySql.Data.xml
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\Renci.SshNet.xml
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\System.Buffers.xml
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\System.Memory.xml
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\System.Numerics.Vectors.xml
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\my_pc\ClinicManager 0.0.2\ClinicManager\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.CopyComplete
+H:\AH\ClinicManager_0.0.2\ClinicManager\obj\Debug\MedicaSystem.IL.csprojAssemblyReference.cache
+H:\AH\ClinicManager_0.0.2\ClinicManager\obj\Debug\ClinicManager.Form1.resources
+H:\AH\ClinicManager_0.0.2\ClinicManager\obj\Debug\ClinicManager.Properties.Resources.resources
+H:\AH\ClinicManager_0.0.2\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Control.resources
+H:\AH\ClinicManager_0.0.2\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DashBoard.resources
+H:\AH\ClinicManager_0.0.2\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DataCenter.resources
+H:\AH\ClinicManager_0.0.2\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DiagnosisCard.resources
+H:\AH\ClinicManager_0.0.2\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Doctor.resources
+H:\AH\ClinicManager_0.0.2\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Patient.resources
+H:\AH\ClinicManager_0.0.2\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientCardDoctor.resources
+H:\AH\ClinicManager_0.0.2\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientCardSecretary.resources
+H:\AH\ClinicManager_0.0.2\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientsArchieve.resources
+H:\AH\ClinicManager_0.0.2\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientSec.resources
+H:\AH\ClinicManager_0.0.2\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_QueueCard.resources
+H:\AH\ClinicManager_0.0.2\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_ReservationSchedule.resources
+H:\AH\ClinicManager_0.0.2\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_User.resources
+H:\AH\ClinicManager_0.0.2\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.GenerateResource.cache
+H:\AH\ClinicManager_0.0.2\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.CoreCompileInputs.cache
+H:\AH\ClinicManager_0.0.2\ClinicManager\obj\Debug\ClinicManager.exe
+H:\AH\ClinicManager_0.0.2\ClinicManager\obj\Debug\ClinicManager.pdb
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\ClinicManager.exe.config
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\ClinicManager.exe
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\ClinicManager.pdb
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\BouncyCastle.Crypto.dll
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\Google.Protobuf.dll
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\K4os.Compression.LZ4.dll
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\K4os.Hash.xxHash.dll
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\MySql.Data.dll
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\Renci.SshNet.dll
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\System.Buffers.dll
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\System.Memory.dll
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\System.Numerics.Vectors.dll
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\Ubiety.Dns.Core.dll
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\Zstandard.Net.dll
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\Google.Protobuf.xml
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\K4os.Compression.LZ4.xml
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\K4os.Hash.xxHash.xml
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\MySql.Data.xml
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\Renci.SshNet.xml
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\System.Buffers.xml
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\System.Memory.xml
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\System.Numerics.Vectors.xml
+H:\AH\ClinicManager_0.0.2\ClinicManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\AH\ClinicManager_0.0.2\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.CopyComplete
+H:\AH\Clinic\ClinicManager\bin\Debug\ClinicManager.exe.config
+H:\AH\Clinic\ClinicManager\bin\Debug\ClinicManager.exe
+H:\AH\Clinic\ClinicManager\bin\Debug\ClinicManager.pdb
+H:\AH\Clinic\ClinicManager\bin\Debug\Clinic.BL.dll
+H:\AH\Clinic\ClinicManager\bin\Debug\System.Buffers.dll
+H:\AH\Clinic\ClinicManager\bin\Debug\System.Memory.dll
+H:\AH\Clinic\ClinicManager\bin\Debug\System.Numerics.Vectors.dll
+H:\AH\Clinic\ClinicManager\bin\Debug\Clinic.Common.dll
+H:\AH\Clinic\ClinicManager\bin\Debug\MySqlControl.dll
+H:\AH\Clinic\ClinicManager\bin\Debug\Clinic.BL.pdb
+H:\AH\Clinic\ClinicManager\bin\Debug\Google.Protobuf.xml
+H:\AH\Clinic\ClinicManager\bin\Debug\K4os.Compression.LZ4.xml
+H:\AH\Clinic\ClinicManager\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\AH\Clinic\ClinicManager\bin\Debug\K4os.Hash.xxHash.xml
+H:\AH\Clinic\ClinicManager\bin\Debug\MySql.Data.xml
+H:\AH\Clinic\ClinicManager\bin\Debug\Renci.SshNet.xml
+H:\AH\Clinic\ClinicManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\AH\Clinic\ClinicManager\bin\Debug\Clinic.Common.pdb
+H:\AH\Clinic\ClinicManager\obj\Debug\MedicaSystem.IL.csprojAssemblyReference.cache
+H:\AH\Clinic\ClinicManager\obj\Debug\ClinicManager.Form1.resources
+H:\AH\Clinic\ClinicManager\obj\Debug\ClinicManager.Properties.Resources.resources
+H:\AH\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Control.resources
+H:\AH\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DashBoard.resources
+H:\AH\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DataCenter.resources
+H:\AH\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DiagnosisCard.resources
+H:\AH\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Doctor.resources
+H:\AH\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Patient.resources
+H:\AH\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientCardDoctor.resources
+H:\AH\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientCardSecretary.resources
+H:\AH\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientsArchieve.resources
+H:\AH\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientSec.resources
+H:\AH\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_QueueCard.resources
+H:\AH\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_ReservationSchedule.resources
+H:\AH\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_User.resources
+H:\AH\Clinic\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.GenerateResource.cache
+H:\AH\Clinic\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.CoreCompileInputs.cache
+H:\AH\Clinic\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.CopyComplete
+H:\AH\Clinic\ClinicManager\obj\Debug\ClinicManager.exe
+H:\AH\Clinic\ClinicManager\obj\Debug\ClinicManager.pdb
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\ClinicManager.exe.config
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\ClinicManager.exe
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\ClinicManager.pdb
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\BouncyCastle.Crypto.dll
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\Clinic.BL.dll
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\Google.Protobuf.dll
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\K4os.Compression.LZ4.dll
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\K4os.Hash.xxHash.dll
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\MySql.Data.dll
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\Renci.SshNet.dll
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\System.Buffers.dll
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\System.Memory.dll
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\System.Numerics.Vectors.dll
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\Ubiety.Dns.Core.dll
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\Zstandard.Net.dll
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\Clinic.Common.dll
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\MySqlControl.dll
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\Clinic.BL.pdb
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\Google.Protobuf.xml
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\K4os.Compression.LZ4.xml
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\K4os.Hash.xxHash.xml
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\MySql.Data.xml
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\Renci.SshNet.xml
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\System.Buffers.xml
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\System.Memory.xml
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\System.Numerics.Vectors.xml
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\bin\Debug\Clinic.Common.pdb
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\obj\Debug\MedicaSystem.IL.csprojAssemblyReference.cache
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\obj\Debug\ClinicManager.Form1.resources
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\obj\Debug\ClinicManager.Properties.Resources.resources
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Control.resources
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DashBoard.resources
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DataCenter.resources
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DiagnosisCard.resources
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Doctor.resources
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Patient.resources
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientCardDoctor.resources
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientCardSecretary.resources
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientsArchieve.resources
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientSec.resources
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_QueueCard.resources
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_ReservationSchedule.resources
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_User.resources
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.GenerateResource.cache
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.CoreCompileInputs.cache
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.CopyComplete
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\obj\Debug\ClinicManager.exe
+E:\Work\Limatrix\Limatrix Project\Clinic\ClinicManager\obj\Debug\ClinicManager.pdb
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\ClinicManager.exe.config
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\ClinicManager.exe
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\ClinicManager.pdb
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\BouncyCastle.Crypto.dll
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\Clinic.BL.dll
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\Google.Protobuf.dll
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\Guna.UI.dll
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\K4os.Compression.LZ4.dll
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\K4os.Hash.xxHash.dll
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\MySql.Data.dll
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\Renci.SshNet.dll
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\System.Buffers.dll
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\System.Memory.dll
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\System.Numerics.Vectors.dll
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\Ubiety.Dns.Core.dll
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\Zstandard.Net.dll
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\Clinic.Common.dll
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\MySqlControl.dll
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\Clinic.BL.pdb
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\Google.Protobuf.xml
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\K4os.Compression.LZ4.xml
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\K4os.Hash.xxHash.xml
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\MySql.Data.xml
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\Renci.SshNet.xml
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\System.Buffers.xml
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\System.Memory.xml
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\System.Numerics.Vectors.xml
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\bin\Debug\Clinic.Common.pdb
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\obj\Debug\MedicaSystem.IL.csprojAssemblyReference.cache
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\obj\Debug\ClinicManager.Form1.resources
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\obj\Debug\ClinicManager.Properties.Resources.resources
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Control.resources
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DashBoard.resources
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DataCenter.resources
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DiagnosisCard.resources
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Doctor.resources
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Patient.resources
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientCardDoctor.resources
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientCardSecretary.resources
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientsArchieve.resources
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientSec.resources
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_QueueCard.resources
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_ReservationSchedule.resources
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_User.resources
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.GenerateResource.cache
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.CoreCompileInputs.cache
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.CopyComplete
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\obj\Debug\ClinicManager.exe
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\obj\Debug\ClinicManager.pdb
+E:\my_pc\ClinicManager 0.0.3\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientsCard.resources
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\ClinicManager.exe.config
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\ClinicManager.exe
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\ClinicManager.pdb
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\BouncyCastle.Crypto.dll
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\Clinic.BL.dll
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\Google.Protobuf.dll
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\K4os.Compression.LZ4.dll
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\K4os.Hash.xxHash.dll
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\MySql.Data.dll
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\Renci.SshNet.dll
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\System.Buffers.dll
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\System.Memory.dll
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\System.Numerics.Vectors.dll
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\Ubiety.Dns.Core.dll
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\Zstandard.Net.dll
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\Clinic.Common.dll
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\MySqlControl.dll
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\Clinic.BL.pdb
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\Google.Protobuf.xml
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\K4os.Compression.LZ4.xml
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\K4os.Hash.xxHash.xml
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\MySql.Data.xml
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\Renci.SshNet.xml
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\System.Buffers.xml
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\System.Memory.xml
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\System.Numerics.Vectors.xml
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\AH\old_\last\Clinic\ClinicManager\bin\Debug\Clinic.Common.pdb
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\MedicaSystem.IL.csprojAssemblyReference.cache
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\ClinicManager.Form1.resources
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\ClinicManager.frmLogin.resources
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\ClinicManager.Properties.Resources.resources
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Control.resources
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DashBoard.resources
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DataCenter.resources
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DiagnosisCard.resources
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Doctor.resources
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Patient.resources
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientCardDoctor.resources
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientCardSecretary.resources
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientsArchieve.resources
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientsCard.resources
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientSec.resources
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_QueueCard.resources
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_ReservationSchedule.resources
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_User.resources
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.GenerateResource.cache
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.CoreCompileInputs.cache
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.CopyComplete
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\ClinicManager.exe
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\ClinicManager.pdb
+H:\AH\old_\last\Clinic\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Medical.resources
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\ClinicManager.exe.config
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\ClinicManager.exe
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\ClinicManager.pdb
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\BouncyCastle.Crypto.dll
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\Clinic.BL.dll
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\Google.Protobuf.dll
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\K4os.Compression.LZ4.dll
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\K4os.Hash.xxHash.dll
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\MySql.Data.dll
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\Renci.SshNet.dll
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\System.Buffers.dll
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\System.Memory.dll
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\System.Numerics.Vectors.dll
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\Ubiety.Dns.Core.dll
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\Zstandard.Net.dll
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\Clinic.Common.dll
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\MySqlControl.dll
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\Clinic.BL.pdb
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\Google.Protobuf.xml
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\K4os.Compression.LZ4.xml
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\K4os.Hash.xxHash.xml
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\MySql.Data.xml
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\Renci.SshNet.xml
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\System.Buffers.xml
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\System.Memory.xml
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\System.Numerics.Vectors.xml
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\bin\Debug\Clinic.Common.pdb
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\MedicaSystem.IL.csprojAssemblyReference.cache
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.Form1.resources
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.frmLogin.resources
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.Properties.Resources.resources
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Control.resources
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DashBoard.resources
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DataCenter.resources
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DiagnosisCard.resources
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Doctor.resources
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Medical.resources
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Patient.resources
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientCardDoctor.resources
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientCardSecretary.resources
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientsArchieve.resources
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientsCard.resources
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientSec.resources
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_QueueCard.resources
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_ReservationSchedule.resources
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_User.resources
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.GenerateResource.cache
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.CoreCompileInputs.cache
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.CopyComplete
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.exe
+H:\AH\old_\last\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.pdb
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\ClinicManager.exe.config
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\ClinicManager.exe
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\ClinicManager.pdb
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\BouncyCastle.Crypto.dll
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\Clinic.BL.dll
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\Google.Protobuf.dll
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\K4os.Compression.LZ4.dll
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\K4os.Hash.xxHash.dll
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\MySql.Data.dll
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\Renci.SshNet.dll
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\System.Buffers.dll
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\System.Memory.dll
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\System.Numerics.Vectors.dll
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\Ubiety.Dns.Core.dll
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\Zstandard.Net.dll
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\Clinic.Common.dll
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\MySqlControl.dll
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\Clinic.BL.pdb
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\Google.Protobuf.xml
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\K4os.Compression.LZ4.xml
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\K4os.Hash.xxHash.xml
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\MySql.Data.xml
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\Renci.SshNet.xml
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\System.Buffers.xml
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\System.Memory.xml
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\System.Numerics.Vectors.xml
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\bin\Debug\Clinic.Common.pdb
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.Form1.resources
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.frmLogin.resources
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.Properties.Resources.resources
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Control.resources
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DashBoard.resources
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DataCenter.resources
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_DiagnosisCard.resources
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Doctor.resources
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Medical.resources
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_Patient.resources
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientCardDoctor.resources
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientCardSecretary.resources
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientsArchieve.resources
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientsCard.resources
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_PatientSec.resources
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_QueueCard.resources
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_ReservationSchedule.resources
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.UserControls.UC_User.resources
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.GenerateResource.cache
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.CoreCompileInputs.cache
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.CopyComplete
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.exe
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\ClinicManager.pdb
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.AssemblyReference.cache
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\ClinicManager\obj\Debug\MedicaSystem.IL.csproj.SuggestedBindingRedirects.cache

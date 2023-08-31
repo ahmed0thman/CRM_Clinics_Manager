@@ -1,0 +1,12 @@
+E:\Work\Limatrix\Limatrix Project\Clinic\Clinic.Common\bin\Debug\Clinic.Common.dll
+E:\Work\Limatrix\Limatrix Project\Clinic\Clinic.Common\bin\Debug\Clinic.Common.pdb
+E:\Work\Limatrix\Limatrix Project\Clinic\Clinic.Common\obj\Debug\Clinic.Common.csproj.CoreCompileInputs.cache
+E:\Work\Limatrix\Limatrix Project\Clinic\Clinic.Common\obj\Debug\Clinic.Common.dll
+E:\Work\Limatrix\Limatrix Project\Clinic\Clinic.Common\obj\Debug\Clinic.Common.pdb
+E:\Work\Limatrix\Limatrix Project\Clinic\Clinic.Common\obj\Debug\Clinic.Common.csprojAssemblyReference.cache
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\Clinic.Common\bin\Debug\Clinic.Common.dll
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\Clinic.Common\bin\Debug\Clinic.Common.pdb
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\Clinic.Common\obj\Debug\Clinic.Common.csproj.CoreCompileInputs.cache
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\Clinic.Common\obj\Debug\Clinic.Common.dll
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\Clinic.Common\obj\Debug\Clinic.Common.pdb
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\Clinic.Common\obj\Debug\Clinic.Common.csproj.AssemblyReference.cache

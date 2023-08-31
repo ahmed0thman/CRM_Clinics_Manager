@@ -1,0 +1,46 @@
+E:\Work\Limatrix\Limatrix Project\Clinic\Clinic.BL\bin\Debug\Clinic.BL.dll
+E:\Work\Limatrix\Limatrix Project\Clinic\Clinic.BL\bin\Debug\Clinic.BL.pdb
+E:\Work\Limatrix\Limatrix Project\Clinic\Clinic.BL\bin\Debug\Clinic.Common.dll
+E:\Work\Limatrix\Limatrix Project\Clinic\Clinic.BL\bin\Debug\Clinic.Common.pdb
+E:\Work\Limatrix\Limatrix Project\Clinic\Clinic.BL\obj\Debug\Clinic.BL.csprojAssemblyReference.cache
+E:\Work\Limatrix\Limatrix Project\Clinic\Clinic.BL\obj\Debug\Clinic.BL.csproj.CoreCompileInputs.cache
+E:\Work\Limatrix\Limatrix Project\Clinic\Clinic.BL\obj\Debug\Clinic.BL.csproj.CopyComplete
+E:\Work\Limatrix\Limatrix Project\Clinic\Clinic.BL\obj\Debug\Clinic.BL.dll
+E:\Work\Limatrix\Limatrix Project\Clinic\Clinic.BL\obj\Debug\Clinic.BL.pdb
+E:\my_pc\ClinicManager 0.0.3\Clinic\Clinic.BL\bin\Debug\Clinic.BL.dll
+E:\my_pc\ClinicManager 0.0.3\Clinic\Clinic.BL\bin\Debug\Clinic.BL.pdb
+E:\my_pc\ClinicManager 0.0.3\Clinic\Clinic.BL\bin\Debug\Clinic.Common.dll
+E:\my_pc\ClinicManager 0.0.3\Clinic\Clinic.BL\bin\Debug\Clinic.Common.pdb
+E:\my_pc\ClinicManager 0.0.3\Clinic\Clinic.BL\obj\Debug\Clinic.BL.csprojAssemblyReference.cache
+E:\my_pc\ClinicManager 0.0.3\Clinic\Clinic.BL\obj\Debug\Clinic.BL.csproj.CoreCompileInputs.cache
+E:\my_pc\ClinicManager 0.0.3\Clinic\Clinic.BL\obj\Debug\Clinic.BL.csproj.CopyComplete
+E:\my_pc\ClinicManager 0.0.3\Clinic\Clinic.BL\obj\Debug\Clinic.BL.dll
+E:\my_pc\ClinicManager 0.0.3\Clinic\Clinic.BL\obj\Debug\Clinic.BL.pdb
+H:\AH\old_\last\Clinic\Clinic.BL\bin\Debug\Clinic.BL.dll
+H:\AH\old_\last\Clinic\Clinic.BL\bin\Debug\Clinic.BL.pdb
+H:\AH\old_\last\Clinic\Clinic.BL\bin\Debug\Clinic.Common.dll
+H:\AH\old_\last\Clinic\Clinic.BL\bin\Debug\Clinic.Common.pdb
+H:\AH\old_\last\Clinic\Clinic.BL\obj\Debug\Clinic.BL.csprojAssemblyReference.cache
+H:\AH\old_\last\Clinic\Clinic.BL\obj\Debug\Clinic.BL.csproj.CoreCompileInputs.cache
+H:\AH\old_\last\Clinic\Clinic.BL\obj\Debug\Clinic.BL.csproj.CopyComplete
+H:\AH\old_\last\Clinic\Clinic.BL\obj\Debug\Clinic.BL.dll
+H:\AH\old_\last\Clinic\Clinic.BL\obj\Debug\Clinic.BL.pdb
+H:\AH\old_\last\Clinic v0.0.4\Clinic.BL\bin\Debug\Clinic.BL.dll
+H:\AH\old_\last\Clinic v0.0.4\Clinic.BL\bin\Debug\Clinic.BL.pdb
+H:\AH\old_\last\Clinic v0.0.4\Clinic.BL\bin\Debug\Clinic.Common.dll
+H:\AH\old_\last\Clinic v0.0.4\Clinic.BL\bin\Debug\Clinic.Common.pdb
+H:\AH\old_\last\Clinic v0.0.4\Clinic.BL\obj\Debug\Clinic.BL.csprojAssemblyReference.cache
+H:\AH\old_\last\Clinic v0.0.4\Clinic.BL\obj\Debug\Clinic.BL.csproj.CoreCompileInputs.cache
+H:\AH\old_\last\Clinic v0.0.4\Clinic.BL\obj\Debug\Clinic.BL.csproj.CopyComplete
+H:\AH\old_\last\Clinic v0.0.4\Clinic.BL\obj\Debug\Clinic.BL.dll
+H:\AH\old_\last\Clinic v0.0.4\Clinic.BL\obj\Debug\Clinic.BL.pdb
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\Clinic.BL\bin\Debug\Clinic.BL.dll
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\Clinic.BL\bin\Debug\Clinic.BL.pdb
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\Clinic.BL\bin\Debug\Clinic.Common.dll
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\Clinic.BL\bin\Debug\Clinic.Common.pdb
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\Clinic.BL\obj\Debug\Clinic.BL.csprojAssemblyReference.cache
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\Clinic.BL\obj\Debug\Clinic.BL.csproj.CoreCompileInputs.cache
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\Clinic.BL\obj\Debug\Clinic.BL.csproj.CopyComplete
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\Clinic.BL\obj\Debug\Clinic.BL.dll
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\Clinic.BL\obj\Debug\Clinic.BL.pdb
+D:\Work\C#\ClinicsManager\Clinic v0.0.4\Clinic.BL\obj\Debug\Clinic.BL.csproj.AssemblyReference.cache
